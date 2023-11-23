@@ -235,6 +235,12 @@ button {
     #teks{
         flex-basis: 100%;
     }
+
+    .biodata{
+        align-items: center;
+        gap: 20px;
+        padding: 15%;
+    }
 }
 
 /* Media query for desktop */
@@ -276,6 +282,13 @@ button {
 
     #teks{
         flex-basis: 55%;
+    }
+
+    .biodata{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        padding-left: 15%;
     }
 }
 
