@@ -185,7 +185,7 @@ button {
 
 /* Closing */
 .closing {
-    margin: 20px 30%;
+    margin: 20px auto;
     padding: 10px;
     text-align: center;
 }
